@@ -1,8 +1,13 @@
 # Hi there👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ktcmnxm5gb6uxra73llzcua&cover_image=true&theme=default&bar_color=258122&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<div align="center" width="50">
 
 My name is Farhan aka EnKuldes and I'm a web developer. I'm from Indonesia and currently working at Infomedia Nusantara. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+
+### Vibing to : 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ktcmnxm5gb6uxra73llzcua&cover_image=true&theme=default&bar_color=258122&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 ## 🔧 Technologies & Tools I'm Using
 ![](https://img.shields.io/badge/OS-Centos-informational?style=flat&logo=centos&logoColor=white&color=2bbc8a)
@@ -22,6 +27,7 @@ My name is Farhan aka EnKuldes and I'm a web developer. I'm from Indonesia and c
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
 
+</div>
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
