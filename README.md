@@ -1,8 +1,6 @@
 # Hi there👋
 
-<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ktcmnxm5gb6uxra73llzcua&cover_image=true&theme=default&bar_color=258122&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 My name is Farhan aka EnKuldes and I'm a web developer. I'm from Indonesia and currently working at Infomedia Nusantara. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
