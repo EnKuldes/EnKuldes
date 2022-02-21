@@ -27,6 +27,14 @@ Vibing to : 🎧
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2bbc8a)
 
+## &#x270d; Things I want to do
+
+There some several project in mind that i want to create, as:
+
+- Simple Template Laravel with Livewire (Login, Register, Menu Management, User Management and Role)
+- Simple Template ReactJS (Login, Register, Menu Management, User Management and Role)
+- Bot Management using Laravel and Laravel Tele BOT SDK (Login, User Management, Bot Management, Bot Interactive)
+
 </div>
 <!-- links to social media icons -->
 
