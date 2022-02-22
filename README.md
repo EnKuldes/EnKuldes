@@ -2,7 +2,11 @@
 
 <div align="center" width="50">
 
-My name is Farhan aka EnKuldes and I'm a web developer. I'm from Indonesia and currently working at Infomedia Nusantara. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Farhan aka EnKuldes and I'm a web developer. I'm from Indonesia and currently working at Infomedia Nusantara since December 2017. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My occupation at Infomedia Nusantara:
+  
+  - 2017 Dec - 2019 Apr as an IT Support that handle job such as installation and maintenance hardware, software and networking problems.
+  - 2019 Apr - now as an IT Support that handle develop and maintenance web application, database administration and maintenance server availability.
 
 Vibing to : 🎧
 
