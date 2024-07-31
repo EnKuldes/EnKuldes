@@ -3,7 +3,8 @@
 <div align="center" width="50">
 
 My name is Farhan aka EnKuldes and I'm a web developer. I'm from Indonesia and currently working at E2Pay Global Utama since December 2023. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-My occupation:
+
+My occupations:
 
   - 2023 Dec - Now as an Web Developer that handle develop and maintenance web application for payment gateway/PG.
   - 2019 Apr - 2023 Dec as an IT Support that handle develop and maintenance web application, database administration and maintenance server availability.
@@ -11,7 +12,7 @@ My occupation:
 
 Vibing to : 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ktcmnxm5gb6uxra73llzcua&cover_image=true&theme=default&bar_color=258122&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21ktcmnxm5gb6uxra73llzcua&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## 🔧 Technologies & Tools I'm Using
