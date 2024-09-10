@@ -7,7 +7,7 @@ My name is Farhan aka EnKuldes and I'm a web developer. I'm from Indonesia and c
 My occupations:
 
   - 2023 Dec - Now as an Web Developer that handle develop and maintenance web application for payment gateway/PG.
-  - 2019 Apr - 2023 Dec as an IT Support that handle develop and maintenance web application, database administration and maintenance server availability.
+  - 2019 Apr - 2023 Dec as an Fullstack Dev that handle develop and maintenance web application, database administration and maintenance server availability.
   - 2017 Dec - 2019 Apr as an IT Support that handle job such as installation and maintenance hardware, software and networking problems.
 
 Vibing to : 🎧
